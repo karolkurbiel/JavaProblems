@@ -1,4 +1,4 @@
-package com.karolkurbiel.runningsum;
+package com.karolkurbiel.variousproblems.runningsum;
 
 import java.util.Arrays;
 

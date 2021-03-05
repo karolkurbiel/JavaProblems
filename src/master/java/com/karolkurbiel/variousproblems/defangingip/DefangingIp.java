@@ -1,4 +1,4 @@
-package com.karolkurbiel.defangingip;
+package com.karolkurbiel.variousproblems.defangingip;
 
 public class DefangingIp {
 
