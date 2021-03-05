@@ -1,6 +1,7 @@
 package com.karolkurbiel.interviewproblems.maximumdepthofbonarytree;
 
 public class MaximumDepthOfBinaryTree {
+
     /**
      * Problem:
      *      Given the root of a binary tree, return its maximum depth.
