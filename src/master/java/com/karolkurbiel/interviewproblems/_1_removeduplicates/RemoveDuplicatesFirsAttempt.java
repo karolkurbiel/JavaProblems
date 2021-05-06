@@ -23,7 +23,7 @@ public class RemoveDuplicatesFirsAttempt {
     public static void main(String[] args) {
         int[] nums = {0,0,1,1,1,2,2,3,3,4};
         Solution.removeDuplicates(nums);
-        System.out.println(Arrays.toString(nums));
+        System.out.println("sorted index" + Arrays.toString(nums));
     }
 
     private static class Solution {
